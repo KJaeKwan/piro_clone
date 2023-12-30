@@ -6,3 +6,6 @@ def piro3():
 
 def piro4():
     return
+
+def cart():
+    return 'cart'
