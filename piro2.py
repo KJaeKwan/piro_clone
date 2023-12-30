@@ -3,3 +3,6 @@ def piro2():
 
 def piro3():
     return
+
+def piro4():
+    return
